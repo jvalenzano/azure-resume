@@ -1,2 +1,2 @@
 # azure-resume
-intitil commit
+intitial commit
